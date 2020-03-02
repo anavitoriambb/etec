@@ -12,4 +12,5 @@ body {
 
 .bg-title {
     background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb);
+    /* background: url("..img1/img/banner.jpg") center center no-repeat; */
 }
