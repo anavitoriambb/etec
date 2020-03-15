@@ -10,17 +10,24 @@ body {
     font-size: 8em;
 }
 
-.bg-title {
+.back {
     background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb);
-    /* background: url("..img1/img/banner.jpg") center center no-repeat; */
+    /*background: url("img1/img/ce.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;*/
+}
+
+.mdi-ana {
+    font-size: 3em;
+    justify-content: center;
 }
 
 .bg-footer {
     background: linear-gradient(to top, #8fb7ff 13%, #ffff 100%);
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;
     background-size: cover;
     height: 150px;
     width: 100% 100%;
     text-align: center;
-    justify-content: center
+    justify-content: center;*/
 }
