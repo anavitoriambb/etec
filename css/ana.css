@@ -10,11 +10,18 @@ body {
     font-size: 8em;
 }
 
+.text-title-xs {
+    font-family: 'akronim', cursive;
+    font-size: 4em;
+}
+
 .back {
-    background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb);
+    /* background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb); */
     /*background: url("img1/img/ce.jpg") no-repeat;
+    */
+    background: url('../img1/img/ce.jpg') no-repeat;
     background-size: cover;
-    background-position: center;*/
+    background-position: center;
 }
 
 .mdi-ana {
