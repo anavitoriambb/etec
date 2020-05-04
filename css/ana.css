@@ -6,7 +6,6 @@ body {
 }
 
 .text-title {
-    color: springgreen;
     font-family: 'akronim', cursive;
     font-size: 8em;
 }
@@ -17,12 +16,18 @@ body {
 }
 
 .back {
+    /*background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb);
+        */
+    background: linear-gradient(to bottom, #ffb8b8 13%, #ffff 100%);
+    /*background: url("../img1/img/.jpg") no-repeat;
+        background-size: cover;
+        background-position: top;*/
     /* background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb); */
     /*background: url("img1/img/ce.jpg") no-repeat;
-    */
+        
     background: url('../img1/img/ce.jpg') no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center;*/
 }
 
 .mdi-ana {
@@ -31,7 +36,7 @@ body {
 }
 
 .bg-footer {
-    background: linear-gradient(to top, #8fb7ff 13%, #ffff 100%);
+    background: linear-gradient(to top, #ffb8b8 13%, #ffff 100%);
     text-align: center;
     justify-content: center;
     /*background-repeat: no-repeat;
@@ -40,4 +45,24 @@ body {
     width: 100% 100%;
     text-align: center;
     justify-content: center;*/
+}
+
+.nomes {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.hdoiszao h2 {
+    color: black;
+    text-align: left;
+}
+
+.caixinha1 {
+    background-color: red;
+    display: flex;
+}
+
+.paragrafo p {
+    color: pink;
+    margin-left: 2%;
 }
