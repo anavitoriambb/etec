@@ -6,6 +6,7 @@ body {
 }
 
 .text-title {
+    color: springgreen;
     font-family: 'akronim', cursive;
     font-size: 8em;
 }
