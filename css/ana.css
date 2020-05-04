@@ -15,6 +15,10 @@ body {
     font-size: 4em;
 }
 
+.menuu {
+    background: linear-gradient(to bottom, #ffb8b8 13%, #ffff 100%);
+}
+
 .back {
     /*background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb);
         */
@@ -23,11 +27,11 @@ body {
         background-size: cover;
         background-position: top;*/
     /* background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb); */
-    /*background: url("img1/img/ce.jpg") no-repeat;
-        
-    background: url('../img1/img/ce.jpg') no-repeat;
-    background-size: cover;
-    background-position: center;*/
+    background: url('../img1/img/bake2.jpg') no-repeat;
+    background-position: center;
+    background-size: 500px 666px;
+    height: 350px;
+    width: 100%;
 }
 
 .mdi-ana {
@@ -48,8 +52,7 @@ body {
 }
 
 .nomes {
-    margin-left: 5%;
-    margin-top: 5%;
+    margin-left: 2%;
 }
 
 .hdoiszao h2 {
@@ -58,11 +61,10 @@ body {
 }
 
 .caixinha1 {
-    background-color: red;
+    margin-left: 5%;
     display: flex;
 }
 
 .paragrafo p {
-    color: pink;
     margin-left: 2%;
 }
