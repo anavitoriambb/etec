@@ -5,7 +5,8 @@ body {
     font-size: 1.2em;
 }
 
-.text-title {
+
+/*.text-title {
     font-family: 'akronim', cursive;
     font-size: 8em;
 }
@@ -13,7 +14,7 @@ body {
 .text-title-xs {
     font-family: 'akronim', cursive;
     font-size: 4em;
-}
+}*/
 
 .menuu {
     background: linear-gradient(to bottom, #ffb8b8 13%, #ffff 100%);
@@ -67,4 +68,14 @@ body {
 
 .paragrafo p {
     margin-left: 2%;
+}
+
+.figura {
+    text-align: center;
+}
+
+h6 {
+    margin-top: 3%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2em;
 }
