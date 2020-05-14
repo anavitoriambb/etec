@@ -42,8 +42,6 @@ body {
 
 .bg-footer {
     background: linear-gradient(to top, #ffb8b8 13%, #ffff 100%);
-    text-align: center;
-    justify-content: center;
     /*background-repeat: no-repeat;
     background-size: cover;
     height: 150px;
