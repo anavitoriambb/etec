@@ -50,7 +50,8 @@ body {
     justify-content: center;*/
 }
 
-.nomes {
+
+/*.nomes {
     margin-left: 2%;
 }
 
@@ -64,9 +65,13 @@ body {
     display: flex;
 }
 
+.caixinha2 {
+    margin-left: 5%;
+}
+
 .paragrafo p {
     margin-left: 2%;
-}
+}*/
 
 .figura {
     text-align: center;
