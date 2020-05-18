@@ -35,6 +35,11 @@ body {
     margin-top: -2.5rem;
 }
 
+.text-span {
+    z-index: 99;
+    position: absolute;
+}
+
 .bg-footer {
     background: linear-gradient(to top, #e66767 13%, #ffb8b8 100%);
     /*background-repeat: no-repeat;
