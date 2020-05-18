@@ -28,7 +28,7 @@ body {
 }
 
 .bg-nav {
-    background-color: #e66767;
+    background-color: #ffb8b8;
 }
 
 .mt-n5 {
@@ -41,7 +41,7 @@ body {
 }
 
 .bg-footer {
-    background: linear-gradient(to top, #e66767 13%, #ffb8b8 100%);
+    background: linear-gradient(to top, #ffb8b8 13%, #ffffff 100%);
     /*background-repeat: no-repeat;
     background-size: cover;
     height: 150px;
