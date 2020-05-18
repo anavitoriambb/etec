@@ -1,8 +1,48 @@
-@import url('https://fonts.googleapis.com/css?family=Akronim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Akronim|Raleway&display=swap');
 body {
     font-family: 'Raleway', sans-serif;
     font-size: 1.2em;
+}
+
+.bg-jumbo {
+    /*background: linear-gradient(to top, #ffb8b8 13%, #ea8685 100%);*/
+    font-family: 'Dancing Script', cursive;
+    background: url("../img1/img/logo9.jpg") no-repeat;
+    background-position: center;
+    background-size: 400px 150px;
+    height: 200px;
+    width: 100%;
+    /**/
+}
+
+.bg-jumbo-xs {
+    /*background: linear-gradient(to top, #ffb8b8 13%, #ea8685 100%);*/
+    font-family: 'Dancing Script', cursive;
+    background: url("../img1/img/logo9.jpg") no-repeat;
+    background-position: center;
+    background-size: 400px 150px;
+    height: 200px;
+    width: 100%;
+    /**/
+}
+
+.bg-nav {
+    background-color: #e66767;
+}
+
+.mt-n5 {
+    margin-top: -2.5rem;
+}
+
+.bg-footer {
+    background: linear-gradient(to top, #e66767 13%, #ffb8b8 100%);
+    /*background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 100% 100%;
+    text-align: center;
+    justify-content: center;*/
 }
 
 
@@ -16,19 +56,24 @@ body {
     font-size: 4em;
 }*/
 
-.menuu {
+
+/*.menuu {
     background: linear-gradient(to bottom, #ffb8b8 13%, #ffff 100%);
 }
 
 .back {
-    /*background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb);
-        */
+    background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb);
+        
     background: linear-gradient(to bottom, #ffb8b8 13%, #ffff 100%);
     /*background: url("../img1/img/.jpg") no-repeat;
         background-size: cover;
         background-position: top;*/
-    /* background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb); */
-    background: url('../img1/img/bake2.jpg') no-repeat;
+
+
+/* background-image: linear-gradient(to bottom right, #ff6b6b, #48dbfb); */
+
+
+/*   background: url('../img1/img/bake2.jpg') no-repeat;
     background-position: center;
     background-size: 500px 666px;
     height: 350px;
@@ -42,14 +87,15 @@ body {
 
 .bg-footer {
     background: linear-gradient(to top, #ffb8b8 13%, #ffff 100%);
-    /*background-repeat: no-repeat;
+    /background-repeat: no-repeat;
     background-size: cover;
     height: 150px;
     width: 100% 100%;
     text-align: center;
     justify-content: center;*/
-}
 
+
+}
 
 /*.nomes {
     margin-left: 2%;
@@ -71,7 +117,7 @@ body {
 
 .paragrafo p {
     margin-left: 2%;
-}*/
+}
 
 .figura {
     text-align: center;
@@ -81,4 +127,4 @@ h6 {
     margin-top: 3%;
     font-family: 'Raleway', sans-serif;
     font-size: 1.2em;
-}
+}*/
