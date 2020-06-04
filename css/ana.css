@@ -58,6 +58,28 @@ body {
 }
 
 
+/*Aqui começa o do sobre*/
+
+.icon-sobre {
+    font-size: 5rem;
+}
+
+.year {
+    font-size: 5rem;
+    font-weight: 900;
+}
+
+
+/*Aqui começa o do bolo*/
+
+.img-banner {
+    height: 30rem;
+    min-height: 30rem;
+    max-height: 30rem;
+    object-fit: cover;
+}
+
+
 /* Dispositivos small (telefones em modo paisagem, com 576px ou mais)*/
 
 @media (max-width: 576px) {
@@ -100,12 +122,3 @@ body {
 /* Dispositivos extra large (desktops grandes com 1200px ou mais)*/
 
 @media (max-width: 1200px) {}
-
-.icon-sobre {
-    font-size: 5rem;
-}
-
-.year {
-    font-size: 5rem;
-    font-weight: 900;
-}
