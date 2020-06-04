@@ -100,3 +100,12 @@ body {
 /* Dispositivos extra large (desktops grandes com 1200px ou mais)*/
 
 @media (max-width: 1200px) {}
+
+.icon-sobre {
+    font-size: 5rem;
+}
+
+.year {
+    font-size: 5rem;
+    font-weight: 900;
+}
