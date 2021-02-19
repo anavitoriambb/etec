@@ -5,19 +5,44 @@ body {
     font-size: 1.2em;
 }
 
-.bg-jumbo {
-    /*background: linear-gradient(to top, #ffb8b8 13%, #ea8685 100%);*/
-    font-family: 'Dancing Script', cursive;
-    background: url("../img1/img/logo9.jpg") no-repeat;
-    background-position: center;
-    background-size: 400px 150px;
-    height: 200px;
-    width: 100%;
-    /**/
+.letraetec {
+    font-family: 'Arial Black';
+    font-size: 4.5rem;
 }
 
-.bg-nav {
-    background-color: #ffb8b8;
+.bg-jumbo {
+    background: linear-gradient(to bottom, #d82626 13%, #ea8685 100%);
+    font-family: Arial;
+    font-size: 2.5rem;
+    height: 500px;
+    width: 100%;
+}
+
+.letra {
+    font-family: 'Arial Black';
+    color: rgb(184, 5, 5);
+    font-size: 2.5rem;
+}
+
+.letramenu {
+    font-family: 'Arial Black';
+    color: rgb(184, 5, 5);
+    font-size: 1.5rem;
+    margin-left: 2.5rem;
+    margin-top: 0.5rem;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+
+/**/
+
+.fotocard {
+    margin-top: 2.8rem;
+    margin-left: 0.5rem;
 }
 
 .mt-n5 {
@@ -30,7 +55,7 @@ body {
 }
 
 .bg-footer {
-    background: linear-gradient(to top, #ffb8b8 13%, #ffffff 100%);
+    background: #d82626;
     /*background-repeat: no-repeat;
     background-size: cover;
     height: 150px;
