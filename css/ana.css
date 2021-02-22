@@ -8,13 +8,20 @@ body {
 .letraetec {
     font-family: 'Arial Black';
     font-size: 4.5rem;
+    margin-top: 8rem;
+}
+
+.letraetec2 {
+    font-family: 'Arial';
+    font-size: 4.5rem;
+    margin-top: 8rem;
 }
 
 .bg-jumbo {
-    background: linear-gradient(to bottom, #d82626 13%, #ea8685 100%);
+    background: linear-gradient(to bottom, #d82626 13%, #d8a8a8 100%);
     font-family: Arial;
     font-size: 2.5rem;
-    height: 500px;
+    height: 600px;
     width: 100%;
 }
 
@@ -22,14 +29,6 @@ body {
     font-family: 'Arial Black';
     color: rgb(184, 5, 5);
     font-size: 2.5rem;
-}
-
-.letramenu {
-    font-family: 'Arial Black';
-    color: rgb(184, 5, 5);
-    font-size: 1.5rem;
-    margin-left: 2.5rem;
-    margin-top: 0.5rem;
 }
 
 .card-horizontal {
